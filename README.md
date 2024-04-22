@@ -17,7 +17,7 @@ I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Web Dev
 
 ## 📫 Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/henry-mbamalu-9096131b0](https://www.linkedin.com/in/henry-mbamalu-9096131b0)
+- LinkedIn: [https://www.linkedin.com/in/henrymbamalu](https://www.linkedin.com/in/henrymbamalu)
 - Email: [henrymbamalu1@gmail.com](mailto:henrymbamalu1@gmail.com)
 - Portfolio: [https://devhenry-portfolio.netlify.app](https://devhenry-portfolio.netlify.app)
 
